@@ -142,10 +142,10 @@ source venv/bin/activate
 venv\Scripts\activate
 ```
 
-## Install Requirements
+## Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip3 install requests beautifulsoup4
 ```
 
 ---
