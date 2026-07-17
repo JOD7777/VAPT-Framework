@@ -171,25 +171,7 @@ python framework.py --url https://example.com
 ## Dashboard
 
 ```
-assets/screenshots/dashboard.png
-```
 
-## Reconnaissance
-
-```
-assets/screenshots/recon.png
-```
-
-## Scanner
-
-```
-assets/screenshots/scanner.png
-```
-
-## Report
-
-```
-assets/screenshots/report.png
 ```
 
 ---
