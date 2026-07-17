@@ -109,12 +109,18 @@ VAPT-Framework/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/VAPT-Framework.git
+git clone https://github.com/JOD7777/VAPT-Framework.git
+
+cd VAPT-Framework
+
+cd Source
+
+chmod +x vapt_framework.py
+
+sudo python3 vapt_framework.py -u http://example.com 
+
 ```
 
-```bash
-cd VAPT-Framework
-```
 
 ## Create Virtual Environment
 
