@@ -171,7 +171,7 @@ python framework.py --url https://example.com
 ## Dashboard
 
 ```
-
+Assets/Screenshot From 2026-07-17 23-32-40.png
 ```
 
 ---
