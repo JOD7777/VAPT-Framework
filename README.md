@@ -1,7 +1,7 @@
 # 🔐 VAPT Framework
 
 <p align="center">
-  <img src="assets/banner.png" alt="VAPT Framework Banner" width="100%">
+  <img src="Assets/Screenshot From 2026-07-17 23-14-37.png" alt="VAPT Framework Banner" width="100%">
 </p>
 
 <p align="center">
