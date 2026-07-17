@@ -299,8 +299,12 @@ The developer is **not responsible** for any misuse of this project.
 - 🔵 Blue Team
 - 🟣 Purple Team
 - 💻 Offensive Security Enthusiast
+  
+Follow Me For New Updates
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/JOD7777
+LinkedIN: https://www.linkedin.com/in/supriyo-malik/
+
 
 ---
 
