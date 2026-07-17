@@ -168,15 +168,13 @@ python framework.py --url https://example.com
 
 # 📸 Screenshots
 
-## Dashboard
+## Example
 
-```
 
 <p align="center">
   <img src="Assets/Screenshot From 2026-07-17 23-32-40.png" alt="VAPT Framework Banner" width="100%">
 </p>
 
-```
 
 ---
 
